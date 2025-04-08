@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "mylib_pub.h"
+#include "myApp.h"
 
 int minhaFunca (int i) {
     //fazer qualquer operação para não dar warning de não uso
