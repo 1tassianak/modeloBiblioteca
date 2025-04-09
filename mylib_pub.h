@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include "mylib_pri.h"
 
+
 #define SUCESSO 0
 #define FRACASSO 1
 

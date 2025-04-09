@@ -1,5 +1,6 @@
 #ifndef MYLIB_PRI_H
 #define MYLIB_PRI_H
+#include "mylib_pub.h"
 
 typedef struct TDA{
     int tamanho_info;
