@@ -31,6 +31,7 @@ int retornarTDA_info1(pTDA p, int *TDA_info1){
     *TDA_info1 = p->TDA_info1;
 
     return SUCESSO;
+
 }
 
 
@@ -43,6 +44,7 @@ int alterarTDA(pTDA p, int TDA_info){
     p->TDA_info1 = TDA_info;
 
     return SUCESSO;
+
 }
 
 
