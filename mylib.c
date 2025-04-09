@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "mylib_pub.h"
-#include "myApp.h"
+#include "mylib_pri.h"
 
 int criarTDA(ppTDA pp, int tamanho_info){
      //1- alocar a estrutura na mnemória
